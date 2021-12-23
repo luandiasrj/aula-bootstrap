@@ -1,0 +1,26 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+.navbar{
+    background-color: hsl(210, 20%, 60%);
+}
+.quemsomos{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: hsl(0, 0%, 90%);
+
+}
+.parceiros{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: hsl(210, 30%, 30%);
+
+}
+.servicos{
+    padding-top: 10px;
+    padding-bottom: 50px;
+    background-color: hsl(50, 100%, 90%);
+
+}
+.bg-footer{background-color: beige;
+padding: 5px;}
